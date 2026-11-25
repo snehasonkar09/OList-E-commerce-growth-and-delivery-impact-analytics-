@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Olist E-Commerce Data Analysis
 
 An end-to-end exploratory data analysis project using the **Brazilian E-Commerce Public Dataset by Olist** to investigate customer behavior, order performance, product categories, seller activity, payment patterns, and delivery operations.
@@ -184,3 +185,6 @@ GitHub: [Your GitHub Profile](https://github.com/)
 ---
 
 *This project is developed for practical learning and portfolio demonstration, focusing on real-world e-commerce data exploration, data quality assessment, and business analysis.*
+=======
+# OList-E-commerce-growth-and-delivery-impact-analytics-
+>>>>>>> origin/main
