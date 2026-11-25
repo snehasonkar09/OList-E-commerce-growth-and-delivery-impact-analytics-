@@ -176,11 +176,11 @@ Source: Kaggle – Brazilian E-Commerce Public Dataset by Olist.
 
 ## 👩‍💻 Author
 
-**Kalyani**
+**Sneha**
 
-B.Tech – Information Technology | Aspiring Data Analyst
+B.Tech – cse(ds)| Aspiring Data Analyst
 
-GitHub: [Your GitHub Profile](https://github.com/)
+GitHub: [Your GitHub Profile](https://github.com/snehasonkar09)
 
 ---
 
